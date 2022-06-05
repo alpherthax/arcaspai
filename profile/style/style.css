@@ -11,6 +11,10 @@
   line-height: 30px
 }
 
+body {
+   background-image: url("./backgroundanimation.gif");
+}
+
 h1 {
   color: #2e4659;
   text-align: center;
