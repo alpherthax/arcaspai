@@ -33,10 +33,10 @@ details {
     margin: 10px auto;
 }
 
+
 button {
     border: 0px;
-    background: #3e94e1;
+    background: #fff;
     text-align: center;
-    color: #fff;
-    padding: 2%;
+    padding: 0px;
 }
