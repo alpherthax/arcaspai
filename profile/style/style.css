@@ -1,14 +1,7 @@
-@font-face {
-    font-family: 'PFStardust';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/PFStardust.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
+@import url('https://cdn.jsdelivr.net/npm/galmuri@latest/dist/galmuri.css');
 
 * {
-  font-family: 'PFStardust';
   color: #333;
-  line-height: 30px
 }
 
 body {
