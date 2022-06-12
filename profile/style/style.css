@@ -58,6 +58,9 @@ button {
 
 .tooltip-text {
     display: none;
+    width: 200px;
+    background-color: #fff;
+    border: 1px solid #333;
     position: absolute;
 }
 
