@@ -50,3 +50,16 @@ button {
     text-align: center;
     padding: 0px;
 }
+
+.tooltip {
+    display: inline-block;
+}
+
+.tooltip-text {
+    display: none;
+    position: absolute;
+}
+
+.tooltip:hover .tooltip-text {
+    display: block;
+}
