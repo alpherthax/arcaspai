@@ -1,6 +1,0 @@
-추가할 것들
-
-1. /image/error.png
-2. /image/favicon.ico
-3. /omage/erroricon.ico
-4. 폴더 속 페이지에서 css 실행시키기
