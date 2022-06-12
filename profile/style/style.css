@@ -32,6 +32,10 @@ table {
     padding: 1%;
 }
 
+td {
+    style="padding: 5%;"
+}
+
 hr {
    border: 2px dashed #3e94e1; 
 }
