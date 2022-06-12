@@ -13,6 +13,7 @@
 
 body {
    background-image: url("./background.png");
+   background-attachment: fixed;
 }
 
 h1 {
